@@ -1,0 +1,9 @@
+/*
+:host ::ng-deep .card{
+    background: #F00
+}
+*/
+
+app-navbar{
+    width: 100%;
+}
